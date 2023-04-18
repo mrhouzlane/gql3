@@ -1,0 +1,5 @@
+query MyQuery {
+  launchedEscrows(first: 50) {
+    id
+  }
+}
